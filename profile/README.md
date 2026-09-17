@@ -8,7 +8,7 @@
 [![Premiação](https://img.shields.io/badge/MVP%20Config%202025-1º%20Lugar%20🏆-gold?style=for-the-badge)](https://countbus.github.io)
 [![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge)](https://countbus.github.io)
 
-[🌐 Acesse nossa página demonstrativa](https://countbus.github.io/CountBus-public/)
+[🌐 Acesse nossa página demonstrativa](https://countbus.github.io/.github/)
 
 </div>
 
